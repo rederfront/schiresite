@@ -1,0 +1,8 @@
+SCHIRE - Site institucional
+
+- index.html: site completo (HTML, CSS e JS num único arquivo; o logotipo vai embutido).
+- assets/schire-logo-original.png: arquivo original enviado, sem alterações.
+- assets/schire-logo.png: o mesmo arquivo com as margens pretas recortadas (usado no site).
+
+Contatos: no final do index.html, objeto CONFIG (whatsapp, message, instagram).
+Fonte: Archivo (Google Fonts), carregada pela internet.
